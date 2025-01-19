@@ -1,0 +1,14 @@
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\bin\Debug\net9.0\codigoPrueba.exe
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\bin\Debug\net9.0\codigoPrueba.deps.json
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\bin\Debug\net9.0\codigoPrueba.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\bin\Debug\net9.0\codigoPrueba.dll
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\bin\Debug\net9.0\codigoPrueba.pdb
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\codigoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\codigoPrueba.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\codigoPrueba.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\codigoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\codigoPrueba.dll
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\refint\codigoPrueba.dll
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\codigoPrueba.pdb
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\codigoPrueba.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Pruebas\codigoPrueba\obj\Debug\net9.0\ref\codigoPrueba.dll
